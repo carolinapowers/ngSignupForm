@@ -1,0 +1,14 @@
+.opt-in-wrapper {
+    margin-top {
+        10em;
+    }
+}
+
+.form-control {
+    margin: 2em 0;
+}
+
+.brand-logo {
+    background-image: url("http://lorempixel.com/image_output/technics-q-c-256-256-5.jpg");
+    height: 256px;
+}
